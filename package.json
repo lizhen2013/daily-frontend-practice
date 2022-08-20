@@ -1,0 +1,26 @@
+{
+  "name": "daily-frontend-practice",
+  "version": "1.0.0",
+  "description": "A html-css-js practice every day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhen2013/daily-frontend-practice.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "daily",
+    "practice"
+  ],
+  "author": "Alex Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizhen2013/daily-frontend-practice/issues"
+  },
+  "homepage": "https://github.com/lizhen2013/daily-frontend-practice#readme"
+}
